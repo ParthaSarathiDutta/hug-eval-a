@@ -1,0 +1,7 @@
+{
+  "id": "planning_task_001",
+  "category": "planning",
+  "description": "Research and summarize the benefits of solar energy.",
+  "input": "Please summarize the benefits of solar energy.",
+  "expected_answer": "renewable, cost-effective, environmentally friendly"
+}

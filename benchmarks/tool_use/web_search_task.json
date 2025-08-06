@@ -1,0 +1,7 @@
+{
+  "id": "tool_use_web_001",
+  "category": "tool_use",
+  "description": "Find the capital of France using a web search tool.",
+  "input": "What is the capital of France?",
+  "expected_answer": "Paris"
+}

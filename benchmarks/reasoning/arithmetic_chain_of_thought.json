@@ -1,0 +1,7 @@
+{
+  "id": "reasoning_arith_001",
+  "category": "reasoning",
+  "description": "Solve a 2-step arithmetic problem with chain of thought",
+  "input": "John has 3 apples. He buys 4 more. Then he eats 2. How many apples does he have?",
+  "expected_answer": "5"
+}
